@@ -25,8 +25,8 @@ I am a passionate **Artificial Intelligence and Data Science** student focused o
 ---
 
 ### 📊 GitHub Activity
-![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manisha-7-Z&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha-7-Z&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -37,8 +37,8 @@ I am a passionate **Artificial Intelligence and Data Science** student focused o
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [https://github.com/Manisha-7-Z]
-- 📧 **Email:** [manishaaaaa78@gmail.com]
+- 💼 **LinkedIn:** [Insert your LinkedIn URL here]
+- 📧 **Email:** manishaaaaa78@gmail.com
 
 ---
 <p align="center">
