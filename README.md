@@ -1,13 +1,46 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Manisha! 👋 
+### AI & Data Science Enthusiast | 3rd Year B.Tech Student
 
-## 🤖 AI & Data Analytics Professional
-I specialize in building intelligent systems and extracting insights from complex datasets. 
+I am a passionate **Artificial Intelligence and Data Science** student focused on building intelligent solutions and extracting meaningful insights from data. I enjoy exploring the depths of **Deep Learning** and optimizing systems through **Data Analytics**.
 
-- 🔭 I’m currently working on ... (Deep Learning Fundamentals)
-- 🌱 I’m currently learning ... (Advanced Neural Network Architectures)
-- 💬 Ask me about ... (Python, SQL, and Data Visualization)
+---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🛠 My Technical Toolbox
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, SQL, C++, Java |
+| **AI & Machine Learning** | Deep Learning (Neural Networks, Backpropagation), ML Algorithms, Data Science |
+| **Databases** | DBMS, SQL Server, Data Preprocessing |
+| **Core CS** | Operating Systems (OS), Object-Oriented Programming (OOP) |
+
+---
+
+### 🚀 Featured Projects & Interests
+
+* **Deep Learning:** Implementing neural network architectures from scratch (Perceptrons, Backpropagation).
+* **Data Analytics:** Using Python and SQL to clean, analyze, and visualize complex datasets.
+* **Problem Solving:** Applying C++ and Java foundations to build efficient algorithmic solutions.
+
+---
+
+### 📊 GitHub Activity
+![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📜 Certifications
+* **C++ Foundation Certified**
+* **Java Foundation Certified**
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [Insert your LinkedIn Link Here]
+- 📧 **Email:** [Insert your Email Here]
+
+---
+<p align="center">
+  <i>"Turning data into intelligence, one line of code at a time."</i>
+</p>
