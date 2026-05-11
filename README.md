@@ -37,7 +37,7 @@ I am a passionate **Artificial Intelligence and Data Science** student focused o
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [Insert your LinkedIn URL here]
+- 💼 **LinkedIn:** https://github.com/Manisha-7-Z
 - 📧 **Email:** manishaaaaa78@gmail.com
 
 ---
