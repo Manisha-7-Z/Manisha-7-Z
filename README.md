@@ -1,5 +1,5 @@
 # Hi, I'm Manisha! 👋 
-### AI & Data Science Enthusiast | 3rd Year B.Tech Student
+### AI & Data Science Enthusiast | Final Year B.Tech Student
 
 I am a passionate **Artificial Intelligence and Data Science** student focused on building intelligent solutions and extracting meaningful insights from data. I enjoy exploring the depths of **Deep Learning** and optimizing systems through **Data Analytics**.
 
